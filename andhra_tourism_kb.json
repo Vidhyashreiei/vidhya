@@ -1,0 +1,1802 @@
+{
+  "destinations": {
+    "tirupati": {
+      "name": "Tirupati",
+      "aliases": [
+        "tirumala",
+        "balaji",
+        "venkateswara",
+        "seven hills"
+      ],
+      "description": "Famous pilgrimage city home to the Tirumala Venkateswara Temple, one of the richest temples in the world. Located in the Chittoor district of Andhra Pradesh.",
+      "attractions": [
+        {
+          "name": "Tirumala Venkateswara Temple",
+          "description": "Main temple dedicated to Lord Venkateswara, receives millions of pilgrims annually",
+          "timings": "2:30 AM to 1:00 AM (next day)",
+          "entry_fee": "Free for Sarva Darshan, ₹300-₹10,500 for special darshans",
+          "special_features": [
+            "Laddu Prasadam",
+            "Hair tonsuring",
+            "Gold plated Vimana"
+          ]
+        },
+        {
+          "name": "Sri Padmavathi Ammavari Temple",
+          "description": "Temple dedicated to Goddess Padmavathi, consort of Lord Venkateswara",
+          "location": "Tiruchanur, 5 km from Tirupati"
+        },
+        {
+          "name": "TTD Gardens",
+          "description": "Beautiful botanical gardens maintained by Tirumala Tirupati Devasthanams"
+        },
+        {
+          "name": "Silathoranam",
+          "description": "Natural rock formation, geological wonder near Tirumala"
+        },
+        {
+          "name": "Akasa Ganga Waterfall",
+          "description": "Sacred waterfall on Tirumala hills, believed to have healing properties"
+        }
+      ],
+      "best_time": "October to March (pleasant weather), avoid peak festival seasons for shorter queues",
+      "how_to_reach": {
+        "by_air": "Tirupati Airport (Renigunta) - 15 km from city, connected to major cities",
+        "by_train": "Tirupati Railway Station - well connected to all major cities",
+        "by_road": "NH40 connects to Hyderabad (550 km), Chennai (150 km), Bangalore (250 km)"
+      },
+      "accommodation": {
+        "ttd_accommodation": "Online booking at ttdsevaonline.com, various categories available",
+        "private_hotels": "Wide range from budget ₹800/night to luxury ₹8000/night",
+        "dharmashalas": "Free accommodation for pilgrims, basic facilities"
+      },
+      "duration": "2-3 days",
+      "budget": "₹3000-15000 per person for 2 days including accommodation and food",
+      "local_transport": "APSRTC buses, private taxis, auto-rickshaws available",
+      "food_specialties": [
+        "Tirupati Laddu",
+        "Pulihora",
+        "Chana Dal",
+        "Traditional South Indian meals"
+      ]
+    },
+    "visakhapatnam": {
+      "name": "Visakhapatnam",
+      "aliases": [
+        "vizag",
+        "waltair",
+        "city of destiny",
+        "jewel of east coast"
+      ],
+      "description": "Major port city and industrial hub known for its pristine beaches, hills, and naval heritage. The largest city in Andhra Pradesh.",
+      "attractions": [
+        {
+          "name": "RK Beach (Ramakrishna Beach)",
+          "description": "Most popular beach with golden sand, perfect for morning walks and evening relaxation",
+          "activities": [
+            "Beach volleyball",
+            "Jet skiing",
+            "Parasailing",
+            "Food stalls"
+          ]
+        },
+        {
+          "name": "Kailasagiri Hill Park",
+          "description": "Hilltop park with panoramic city views, ropeway, and giant Shiva-Parvathi statue",
+          "entry_fee": "₹30 for adults, ropeway ₹60 round trip",
+          "timings": "10:00 AM to 8:30 PM"
+        },
+        {
+          "name": "INS Kurusura Submarine Museum",
+          "description": "Decommissioned submarine converted into museum, unique maritime experience",
+          "entry_fee": "₹40 for adults, ₹20 for children",
+          "location": "RK Beach Road"
+        },
+        {
+          "name": "Borra Caves",
+          "description": "Million-year-old limestone caves with stalactites and stalagmites, 90 km from city",
+          "entry_fee": "₹40 for adults",
+          "best_time": "Early morning to avoid crowds"
+        },
+        {
+          "name": "Araku Valley",
+          "description": "Hill station 115 km away, famous for coffee plantations and tribal culture",
+          "train_journey": "Scenic train ride through Eastern Ghats, 5-6 hours"
+        },
+        {
+          "name": "Simhachalam Temple",
+          "description": "Ancient temple dedicated to Lord Narasimha, architectural marvel",
+          "distance": "16 km from city center"
+        }
+      ],
+      "beaches": [
+        {
+          "name": "RK Beach",
+          "features": [
+            "Clean sand",
+            "Food courts",
+            "Submarine museum nearby"
+          ]
+        },
+        {
+          "name": "Rushikonda Beach",
+          "features": [
+            "Water sports",
+            "Golden sand",
+            "Less crowded",
+            "Beach resorts"
+          ]
+        },
+        {
+          "name": "Yarada Beach",
+          "features": [
+            "Secluded",
+            "Pristine",
+            "Surrounded by hills",
+            "Dolphin spotting"
+          ]
+        }
+      ],
+      "best_time": "October to March for pleasant weather, April-June for beach activities",
+      "how_to_reach": {
+        "by_air": "Visakhapatnam Airport - domestic and limited international flights",
+        "by_train": "Visakhapatnam Railway Station - major junction on East Coast Railway",
+        "by_road": "NH16 (Golden Quadrilateral) connects to major cities"
+      },
+      "accommodation": {
+        "beach_resorts": "₹3000-12000/night, sea-facing rooms available",
+        "business_hotels": "₹1500-5000/night in city center",
+        "budget_stays": "₹800-2000/night, good for backpackers"
+      },
+      "duration": "3-4 days",
+      "local_transport": "City buses, auto-rickshaws, Ola/Uber, rental bikes available",
+      "food_specialties": [
+        "Bamboo Chicken",
+        "Fish Curry",
+        "Prawns Fry",
+        "Araku Coffee"
+      ]
+    },
+    "araku_valley": {
+      "name": "Araku Valley",
+      "aliases": [
+        "araku",
+        "ooty of andhra",
+        "kashmir of andhra pradesh"
+      ],
+      "description": "Picturesque hill station in Eastern Ghats, 1300m above sea level, known for coffee plantations, waterfalls, and tribal culture.",
+      "attractions": [
+        {
+          "name": "Coffee Plantations",
+          "description": "Organic coffee estates, guided tours available, coffee tasting sessions",
+          "best_time": "December to February for coffee harvesting"
+        },
+        {
+          "name": "Tribal Museum",
+          "description": "Showcases culture and lifestyle of local tribes - Kondh, Bagata, Gadaba",
+          "entry_fee": "₹20 for adults",
+          "timings": "10:00 AM to 5:00 PM"
+        },
+        {
+          "name": "Borra Caves",
+          "description": "Spectacular limestone caves, 80 km from Araku, million years old",
+          "entry_fee": "₹40 for adults, ₹20 for children"
+        },
+        {
+          "name": "Katiki Waterfalls",
+          "description": "70-foot waterfall, 19 km from Borra Caves, trekking required",
+          "best_time": "Post-monsoon (October-January)"
+        },
+        {
+          "name": "Padmapuram Gardens",
+          "description": "Botanical garden with tree-top huts, toy train, and hanging bridge",
+          "entry_fee": "₹15 for adults"
+        },
+        {
+          "name": "Chaparai Waterfalls",
+          "description": "Beautiful cascade, 15 km from Araku, ideal for picnics"
+        }
+      ],
+      "train_journey": {
+        "route": "Visakhapatnam to Araku Valley",
+        "duration": "5-6 hours",
+        "highlights": [
+          "58 tunnels",
+          "84 bridges",
+          "Scenic Eastern Ghats",
+          "Spiral loops"
+        ],
+        "stations": [
+          "Simhachalam",
+          "Anakapalle",
+          "Tuni",
+          "Narsipatnam",
+          "Araku"
+        ]
+      },
+      "best_time": "October to February (pleasant weather), March-May (coffee season)",
+      "how_to_reach": {
+        "by_train": "Scenic train from Visakhapatnam (most popular)",
+        "by_road": "115 km from Visakhapatnam via NH16 and state highways"
+      },
+      "accommodation": {
+        "aptdc_resorts": "Haritha Valley Resort - ₹2500-4000/night",
+        "private_hotels": "₹1500-3500/night, valley view rooms available",
+        "homestays": "₹800-1500/night, authentic tribal experience"
+      },
+      "duration": "2-3 days",
+      "tribal_culture": {
+        "tribes": [
+          "Kondh",
+          "Bagata",
+          "Gadaba",
+          "Koya"
+        ],
+        "crafts": [
+          "Bamboo products",
+          "Tribal jewelry",
+          "Handwoven textiles"
+        ],
+        "festivals": [
+          "Sammakka Saralamma Jatara",
+          "Bhoomi Festival"
+        ]
+      },
+      "food_specialties": [
+        "Araku Coffee",
+        "Bamboo Chicken",
+        "Tribal honey",
+        "Organic vegetables"
+      ]
+    },
+    "vijayawada": {
+      "name": "Vijayawada",
+      "aliases": [
+        "bezawada",
+        "business capital of ap",
+        "city on krishna river"
+      ],
+      "description": "Commercial capital of Andhra Pradesh, situated on banks of Krishna River, known for Kanaka Durga Temple and Prakasam Barrage.",
+      "attractions": [
+        {
+          "name": "Kanaka Durga Temple",
+          "description": "Famous Shakti Peetha on Indrakeeladri Hill, dedicated to Goddess Durga",
+          "significance": "One of the 18 Shakti Peethas in India",
+          "festival": "Navratri celebrations attract millions of devotees",
+          "timings": "4:00 AM to 12:00 PM, 3:00 PM to 9:00 PM"
+        },
+        {
+          "name": "Prakasam Barrage",
+          "description": "Major dam across Krishna River, beautiful evening views, connects Vijayawada to Guntur",
+          "length": "1223 meters",
+          "activities": [
+            "Boating",
+            "Evening walks",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Undavalli Caves",
+          "description": "4th-7th century rock-cut caves with Buddhist and Hindu sculptures",
+          "distance": "8 km from city center",
+          "entry_fee": "₹25 for adults",
+          "highlights": [
+            "Vishnu statue",
+            "Multi-story caves",
+            "Ancient architecture"
+          ]
+        },
+        {
+          "name": "Gandhi Hill",
+          "description": "Hilltop with Gandhi statue and stupa, panoramic city views",
+          "height": "500 feet above sea level",
+          "activities": [
+            "Trekking",
+            "Meditation",
+            "Sunrise/sunset viewing"
+          ]
+        },
+        {
+          "name": "Bhavani Island",
+          "description": "Largest river island in Andhra Pradesh, water sports and recreation",
+          "area": "133 acres",
+          "activities": [
+            "Water skiing",
+            "Speed boating",
+            "River cruise"
+          ]
+        }
+      ],
+      "best_time": "November to February (pleasant weather), avoid summer months",
+      "how_to_reach": {
+        "by_air": "Vijayawada Airport - 20 km from city, domestic flights",
+        "by_train": "Vijayawada Junction - major railway hub, connects all major cities",
+        "by_road": "NH65 and NH16 intersection, excellent road connectivity"
+      },
+      "accommodation": {
+        "business_hotels": "₹2000-6000/night, near railway station and business district",
+        "budget_lodges": "₹800-1500/night, basic amenities",
+        "luxury_hotels": "₹4000-10000/night, full-service properties"
+      },
+      "duration": "1-2 days",
+      "local_transport": "City buses, auto-rickshaws, app-based cabs, rental vehicles",
+      "food_specialties": [
+        "Pulihora",
+        "Gongura Pachadi",
+        "Pesarattu",
+        "Andhra Meals"
+      ]
+    },
+    "hyderabad": {
+      "name": "Hyderabad",
+      "aliases": [
+        "cyberabad",
+        "city of pearls",
+        "city of nizams",
+        "hitec city"
+      ],
+      "description": "Historic capital city known for its rich Mughal heritage, modern IT industry, and world-famous biryani. Joint capital of Telangana and Andhra Pradesh.",
+      "attractions": [
+        {
+          "name": "Charminar",
+          "description": "Iconic 16th-century monument and mosque, symbol of Hyderabad",
+          "built": "1591 by Sultan Muhammad Quli Qutb Shah",
+          "height": "56 meters",
+          "entry_fee": "₹30 for adults",
+          "nearby": [
+            "Laad Bazaar",
+            "Mecca Masjid",
+            "Chowmahalla Palace"
+          ]
+        },
+        {
+          "name": "Golconda Fort",
+          "description": "Magnificent 13th-century fort complex, famous for diamonds and acoustics",
+          "area": "11 km perimeter",
+          "entry_fee": "₹30 for adults",
+          "sound_and_light_show": "₹130, timings vary by season",
+          "highlights": [
+            "Fateh Darwaza",
+            "Acoustic system",
+            "Diamond mines history"
+          ]
+        },
+        {
+          "name": "Salar Jung Museum",
+          "description": "One of India's largest museums with art and artifacts from around the world",
+          "entry_fee": "₹20 for adults",
+          "timings": "10:00 AM to 5:00 PM, closed on Fridays",
+          "highlights": [
+            "Veiled Rebecca",
+            "Musical clock",
+            "Jade collection"
+          ]
+        },
+        {
+          "name": "Chowmahalla Palace",
+          "description": "Palace of the Nizams, showcasing royal lifestyle and architecture",
+          "entry_fee": "₹80 for adults",
+          "highlights": [
+            "Khilwat Mubarak",
+            "Clock collection",
+            "Vintage cars"
+          ]
+        },
+        {
+          "name": "Ramoji Film City",
+          "description": "World's largest film studio complex, Guinness World Record holder",
+          "area": "1666 acres",
+          "packages": "₹1150-2500 per person including lunch and guided tour",
+          "attractions": [
+            "Film sets",
+            "Adventure sports",
+            "Bird park",
+            "Butterfly garden"
+          ]
+        },
+        {
+          "name": "Hussain Sagar Lake",
+          "description": "Heart-shaped lake with Buddha statue, boating and evening entertainment",
+          "buddha_statue": "18-meter tall monolithic statue on Gibraltar Rock",
+          "activities": [
+            "Boating",
+            "Laser show",
+            "Tank Bund walk"
+          ]
+        }
+      ],
+      "food_culture": {
+        "signature_dish": "Hyderabadi Biryani",
+        "famous_restaurants": [
+          {
+            "name": "Paradise Restaurant",
+            "specialty": "Biryani",
+            "established": "1953",
+            "locations": "Multiple across city"
+          },
+          {
+            "name": "Hotel Shadab",
+            "specialty": "Nizami cuisine",
+            "location": "Near Charminar"
+          },
+          {
+            "name": "Bawarchi",
+            "specialty": "Biryani and kebabs",
+            "famous_for": "Authentic flavors"
+          }
+        ],
+        "street_food": [
+          "Haleem",
+          "Lukhmi",
+          "Osmania biscuits",
+          "Irani chai"
+        ]
+      },
+      "best_time": "October to March (pleasant weather), avoid summer heat",
+      "how_to_reach": {
+        "by_air": "Rajiv Gandhi International Airport (Shamshabad) - 24 km from city",
+        "by_train": "Secunderabad Railway Station - major junction",
+        "by_road": "NH44, NH65 connect to all major cities"
+      },
+      "accommodation": {
+        "luxury_hotels": "₹5000-20000/night, international chains available",
+        "business_hotels": "₹2000-5000/night, good amenities",
+        "budget_stays": "₹800-1500/night, backpacker friendly"
+      },
+      "duration": "3-4 days",
+      "shopping": [
+        "Laad Bazaar (bangles)",
+        "Begum Bazaar",
+        "Abids",
+        "Banjara Hills"
+      ]
+    }
+  },
+  "temples": {
+    "major_temples": [
+      {
+        "name": "Tirumala Venkateswara Temple",
+        "location": "Tirupati",
+        "deity": "Lord Venkateswara (Vishnu)",
+        "significance": "Richest temple in the world, major Vaishnavite pilgrimage site",
+        "annual_visitors": "50+ million",
+        "revenue": "₹3000+ crores annually",
+        "prasadam": "Tirupati Laddu (₹50 per box)",
+        "darshan_types": {
+          "sarva_darshan": "Free, 8-20 hours wait",
+          "special_entry": "₹300, 4-6 hours wait",
+          "divya_darshan": "₹500, 2-3 hours wait",
+          "premium_darshan": "₹10,500+, immediate darshan"
+        },
+        "accommodation": "TTD provides various categories, online booking mandatory",
+        "hair_tonsuring": "Kalyanakatta complex, free service",
+        "festivals": [
+          "Brahmotsavam",
+          "Vaikunta Ekadashi",
+          "Rathasaptami"
+        ]
+      },
+      {
+        "name": "Simhachalam Temple",
+        "location": "Visakhapatnam",
+        "deity": "Lord Narasimha",
+        "significance": "Ancient Vaishnavite temple, architectural marvel",
+        "built": "11th-12th century",
+        "architecture": "Kalinga and Dravidian styles",
+        "festival": "Chandanotsavam (May) - deity covered in sandalwood paste",
+        "distance_from_vizag": "16 km",
+        "timings": "6:00 AM to 12:00 PM, 6:00 PM to 9:00 PM"
+      },
+      {
+        "name": "Kanaka Durga Temple",
+        "location": "Vijayawada",
+        "deity": "Goddess Durga",
+        "significance": "One of 18 Shakti Peethas, where Sati's back fell",
+        "location_detail": "Indrakeeladri Hill overlooking Krishna River",
+        "festival": "Navratri (September/October) - 9-day grand celebration",
+        "legend": "Goddess killed demon Mahishasura here",
+        "timings": "4:00 AM to 12:00 PM, 3:00 PM to 9:00 PM",
+        "ropeway": "Available for easy access to hilltop temple"
+      },
+      {
+        "name": "Mallikarjuna Swamy Temple",
+        "location": "Srisailam",
+        "deity": "Lord Shiva",
+        "significance": "One of 12 Jyotirlingas and 18 Shakti Peethas",
+        "unique_feature": "Only place with both Jyotirlinga and Shakti Peetha",
+        "goddess": "Bhramaramba Devi",
+        "wildlife_sanctuary": "Srisailam Tiger Reserve nearby",
+        "river": "Krishna River, considered sacred",
+        "distance_from_hyderabad": "213 km"
+      },
+      {
+        "name": "Lepakshi Temple",
+        "location": "Anantapur district",
+        "deity": "Lord Veerabhadra",
+        "significance": "Vijayanagara architecture, hanging pillar",
+        "built": "16th century",
+        "famous_for": [
+          "Hanging pillar",
+          "Nandi statue",
+          "Ceiling paintings"
+        ],
+        "nandi_statue": "Largest monolithic Nandi in India",
+        "distance_from_bangalore": "120 km"
+      }
+    ],
+    "temple_etiquette": [
+      "Dress modestly - traditional Indian attire preferred",
+      "Remove footwear before entering temple premises",
+      "Photography restrictions vary by temple - check before clicking",
+      "Maintain silence and respect during prayers",
+      "Follow queue system for darshan",
+      "Don't touch idols or sacred objects",
+      "Mobile phones on silent mode",
+      "Prasadam should be consumed respectfully"
+    ],
+    "pilgrimage_circuits": [
+      {
+        "name": "Pancharama Kshetras",
+        "temples": [
+          "Amararama",
+          "Draksharama",
+          "Somarama",
+          "Ksheerarama",
+          "Bheemarama"
+        ],
+        "deity": "Lord Shiva",
+        "legend": "Five temples where pieces of demon Tarakasura's body fell"
+      }
+    ]
+  },
+  "food_culture": {
+    "regional_cuisines": {
+      "coastal_andhra": {
+        "characteristics": [
+          "Coconut-based curries",
+          "Seafood specialties",
+          "Tangy flavors"
+        ],
+        "signature_dishes": [
+          {
+            "name": "Chepala Pulusu",
+            "description": "Spicy fish curry with tamarind and coconut",
+            "main_ingredient": "Fresh fish (usually kingfish or pomfret)"
+          },
+          {
+            "name": "Royyala Iguru",
+            "description": "Prawn fry with onions and spices",
+            "cooking_style": "Dry preparation with minimal oil"
+          },
+          {
+            "name": "Bamboo Chicken",
+            "description": "Chicken cooked inside bamboo with spices",
+            "origin": "Tribal cuisine of Araku Valley"
+          }
+        ]
+      },
+      "rayalaseema": {
+        "characteristics": [
+          "Extremely spicy",
+          "Millet-based",
+          "Meat preparations"
+        ],
+        "signature_dishes": [
+          {
+            "name": "Ragi Sangati",
+            "description": "Finger millet balls, staple food",
+            "served_with": "Spicy curries and chutneys"
+          },
+          {
+            "name": "Natu Kodi Pulusu",
+            "description": "Country chicken curry with traditional spices",
+            "spice_level": "Very high"
+          },
+          {
+            "name": "Gongura Mamsam",
+            "description": "Mutton curry with sorrel leaves",
+            "unique_ingredient": "Gongura (sorrel leaves)"
+          }
+        ]
+      },
+      "hyderabad_nizami": {
+        "characteristics": [
+          "Mughal influence",
+          "Rich gravies",
+          "Aromatic spices"
+        ],
+        "signature_dishes": [
+          {
+            "name": "Hyderabadi Biryani",
+            "description": "Aromatic rice dish cooked in dum style",
+            "history": "300+ years old recipe",
+            "varieties": [
+              "Mutton",
+              "Chicken",
+              "Vegetable",
+              "Fish"
+            ],
+            "cooking_method": "Dum cooking in sealed pot",
+            "served_with": [
+              "Raita",
+              "Shorba",
+              "Pickle",
+              "Boiled egg"
+            ]
+          },
+          {
+            "name": "Haleem",
+            "description": "Slow-cooked stew of meat, lentils, and wheat",
+            "season": "Ramadan special",
+            "cooking_time": "6-8 hours"
+          },
+          {
+            "name": "Lukhmi",
+            "description": "Square-shaped meat pastry",
+            "origin": "Nizami cuisine"
+          }
+        ]
+      }
+    },
+    "vegetarian_specialties": [
+      {
+        "name": "Pesarattu",
+        "description": "Green gram dosa, healthy breakfast option",
+        "served_with": "Ginger chutney and coconut chutney",
+        "nutritional_value": "High protein, gluten-free"
+      },
+      {
+        "name": "Gongura Pachadi",
+        "description": "Tangy chutney made from sorrel leaves",
+        "significance": "Signature condiment of Andhra Pradesh",
+        "varieties": [
+          "Gongura Mutton",
+          "Gongura Dal",
+          "Gongura Rice"
+        ]
+      },
+      {
+        "name": "Bobbatlu/Puran Poli",
+        "description": "Sweet stuffed flatbread with jaggery and lentils",
+        "occasions": "Festivals and special occasions",
+        "filling": "Chana dal and jaggery"
+      },
+      {
+        "name": "Andhra Meals",
+        "description": "Traditional thali with variety of dishes",
+        "components": [
+          "Rice",
+          "Sambar",
+          "Rasam",
+          "Curries",
+          "Pickles",
+          "Papad",
+          "Curd"
+        ]
+      }
+    ],
+    "famous_restaurants": [
+      {
+        "name": "Paradise Restaurant",
+        "location": "Hyderabad (multiple branches)",
+        "specialty": "Hyderabadi Biryani",
+        "established": "1953",
+        "famous_for": "Authentic Nizami cuisine"
+      },
+      {
+        "name": "Rayalaseema Ruchulu",
+        "location": "Hyderabad",
+        "specialty": "Traditional Andhra cuisine",
+        "ambiance": "Village-style dining"
+      },
+      {
+        "name": "Dharani",
+        "location": "Visakhapatnam",
+        "specialty": "Coastal Andhra seafood",
+        "famous_dishes": [
+          "Fish curry",
+          "Prawn preparations"
+        ]
+      }
+    ],
+    "street_food": [
+      {
+        "name": "Punugulu",
+        "description": "Deep-fried rice and urad dal balls",
+        "served_with": "Coconut chutney and sambar"
+      },
+      {
+        "name": "Mirchi Bajji",
+        "description": "Stuffed chili fritters",
+        "preparation": "Green chilies stuffed with spices and deep-fried"
+      },
+      {
+        "name": "Bonda",
+        "description": "Deep-fried potato dumpling",
+        "varieties": [
+          "Aloo Bonda",
+          "Mysore Bonda"
+        ]
+      }
+    ]
+  },
+  "transportation": {
+    "airports": [
+      {
+        "name": "Rajiv Gandhi International Airport",
+        "location": "Hyderabad (Shamshabad)",
+        "code": "HYD",
+        "type": "International",
+        "distance_from_city": "24 km",
+        "connectivity": "Direct flights to major global destinations",
+        "facilities": [
+          "Duty-free shopping",
+          "Lounges",
+          "Hotels",
+          "Car rental"
+        ]
+      },
+      {
+        "name": "Visakhapatnam Airport",
+        "location": "Visakhapatnam",
+        "code": "VTZ",
+        "type": "Domestic with limited international",
+        "distance_from_city": "12 km",
+        "connectivity": "Major Indian cities"
+      },
+      {
+        "name": "Tirupati Airport",
+        "location": "Renigunta",
+        "code": "TIR",
+        "type": "Domestic",
+        "distance_from_tirupati": "15 km",
+        "connectivity": "Limited flights, mainly for pilgrims"
+      }
+    ],
+    "railways": {
+      "major_stations": [
+        {
+          "name": "Secunderabad Junction",
+          "location": "Hyderabad",
+          "significance": "Major railway hub of South India",
+          "connectivity": "All major cities across India"
+        },
+        {
+          "name": "Vijayawada Junction",
+          "location": "Vijayawada",
+          "significance": "Important junction on Delhi-Chennai route",
+          "connectivity": "Major cities on Golden Quadrilateral"
+        },
+        {
+          "name": "Visakhapatnam Railway Station",
+          "location": "Visakhapatnam",
+          "significance": "Major station on East Coast Railway",
+          "connectivity": "Eastern and Southern India"
+        }
+      ],
+      "special_trains": [
+        {
+          "name": "Vande Bharat Express",
+          "route": "Secunderabad-Visakhapatnam",
+          "journey_time": "8 hours 30 minutes",
+          "features": [
+            "Semi-high speed",
+            "Modern amenities"
+          ]
+        },
+        {
+          "name": "Kirandul-Visakhapatnam Passenger",
+          "route": "Through Araku Valley",
+          "significance": "Most scenic train journey in AP",
+          "highlights": [
+            "58 tunnels",
+            "84 bridges",
+            "Eastern Ghats"
+          ]
+        }
+      ]
+    },
+    "roadways": {
+      "major_highways": [
+        {
+          "name": "NH44 (Delhi-Chennai)",
+          "significance": "Longest highway in India",
+          "cities_covered": [
+            "Hyderabad",
+            "Kurnool",
+            "Anantapur"
+          ]
+        },
+        {
+          "name": "NH16 (Kolkata-Chennai)",
+          "significance": "East Coast highway",
+          "cities_covered": [
+            "Visakhapatnam",
+            "Vijayawada",
+            "Nellore"
+          ]
+        }
+      ],
+      "bus_services": {
+        "apsrtc": {
+          "full_form": "Andhra Pradesh State Road Transport Corporation",
+          "network": "Extensive network covering all districts",
+          "services": [
+            "Ordinary",
+            "Express",
+            "Deluxe",
+            "Volvo AC"
+          ]
+        }
+      }
+    }
+  },
+  "festivals": [
+    {
+      "name": "Brahmotsavam",
+      "location": "Tirupati",
+      "duration": "9 days",
+      "time": "September/October",
+      "description": "Grand festival at Tirumala temple with processions and cultural programs",
+      "highlights": [
+        "Garuda Vahana Seva",
+        "Rathotsavam",
+        "Chakra Snanam"
+      ]
+    },
+    {
+      "name": "Dasara",
+      "location": "Vijayawada",
+      "duration": "10 days",
+      "time": "September/October",
+      "description": "Grand celebrations at Kanaka Durga Temple",
+      "highlights": [
+        "Goddess in different forms",
+        "Cultural programs",
+        "Illuminations"
+      ]
+    },
+    {
+      "name": "Ugadi",
+      "location": "Statewide",
+      "significance": "Telugu New Year",
+      "time": "March/April",
+      "traditions": [
+        "Ugadi Pachadi",
+        "Panchanga Sravanam",
+        "New clothes"
+      ],
+      "foods": [
+        "Ugadi Pachadi (six tastes)",
+        "Bobbatlu",
+        "Pulihora"
+      ]
+    },
+    {
+      "name": "Sankranti",
+      "location": "Statewide",
+      "duration": "4 days",
+      "time": "January",
+      "significance": "Harvest festival",
+      "activities": [
+        "Kite flying",
+        "Rangoli",
+        "Bonfires",
+        "Traditional games"
+      ]
+    }
+  ],
+  "practical_information": {
+    "best_time_to_visit": {
+      "winter": {
+        "months": "November to February",
+        "temperature": "20-30°C",
+        "advantages": [
+          "Pleasant weather",
+          "Clear skies",
+          "Ideal for sightseeing"
+        ],
+        "disadvantages": [
+          "Peak season",
+          "Higher prices",
+          "Crowded"
+        ]
+      },
+      "summer": {
+        "months": "March to May",
+        "temperature": "30-45°C",
+        "advantages": [
+          "Off-season discounts",
+          "Less crowded hill stations"
+        ],
+        "disadvantages": [
+          "Very hot",
+          "Uncomfortable for sightseeing"
+        ]
+      },
+      "monsoon": {
+        "months": "June to October",
+        "temperature": "25-35°C",
+        "advantages": [
+          "Lush greenery",
+          "Waterfalls at full flow",
+          "Pleasant evenings"
+        ],
+        "disadvantages": [
+          "Heavy rainfall",
+          "Travel disruptions",
+          "Humidity"
+        ]
+      }
+    },
+    "emergency_contacts": {
+      "police": "100",
+      "fire_service": "101",
+      "ambulance": "108",
+      "tourist_helpline": "1800-425-1100",
+      "railway_enquiry": "139",
+      "ap_tourism": "0863-2340100"
+    },
+    "languages": {
+      "primary": "Telugu",
+      "widely_spoken": [
+        "Hindi",
+        "English",
+        "Urdu"
+      ],
+      "regional": [
+        "Tamil (in border areas)",
+        "Kannada (in border areas)"
+      ]
+    },
+    "currency": {
+      "official": "Indian Rupee (INR)",
+      "atm_availability": "Widely available in cities and towns",
+      "card_acceptance": "Major hotels, restaurants, and shops accept cards"
+    }
+  },
+  "adventure_tourism": {
+    "water_sports": [
+      {
+        "location": "Visakhapatnam beaches",
+        "activities": [
+          "Jet skiing",
+          "Parasailing",
+          "Banana boat rides",
+          "Scuba diving"
+        ],
+        "best_beaches": [
+          "Rushikonda",
+          "RK Beach"
+        ]
+      },
+      {
+        "location": "Bhavani Island, Vijayawada",
+        "activities": [
+          "Water skiing",
+          "Speed boating",
+          "River cruise"
+        ],
+        "river": "Krishna River"
+      }
+    ],
+    "trekking": [
+      {
+        "location": "Horsley Hills",
+        "difficulty": "Easy to moderate",
+        "attractions": [
+          "Sunrise point",
+          "Adventure sports",
+          "Rock climbing"
+        ]
+      },
+      {
+        "location": "Araku Valley",
+        "trails": [
+          "Katiki Waterfalls trek",
+          "Coffee plantation walks"
+        ],
+        "difficulty": "Easy to moderate"
+      }
+    ],
+    "wildlife": [
+      {
+        "name": "Srisailam Tiger Reserve",
+        "area": "3568 sq km",
+        "wildlife": [
+          "Tigers",
+          "Leopards",
+          "Sloth bears",
+          "Crocodiles"
+        ],
+        "activities": [
+          "Jungle safari",
+          "Boat safari on Krishna River"
+        ]
+      },
+      {
+        "name": "Kolleru Lake Bird Sanctuary",
+        "significance": "Largest freshwater lake in India",
+        "birds": [
+          "Pelicans",
+          "Painted storks",
+          "Flamingos"
+        ],
+        "best_time": "November to February"
+      }
+    ]
+  },
+  "local_transportation": {
+    "city_wise": {
+      "hyderabad": {
+        "metro": {
+          "lines": [
+            "Blue Line",
+            "Green Line",
+            "Red Line"
+          ],
+          "timings": "6:00 AM to 11:00 PM",
+          "fare": "₹10-60 based on distance",
+          "cards": "Metro card, QR code tickets available"
+        },
+        "buses": {
+          "tsrtc": "Extensive city bus network",
+          "fare": "₹5-25 for city routes",
+          "ac_buses": "₹15-50 for AC buses"
+        },
+        "auto_rickshaw": {
+          "fare": "₹25 minimum, ₹12-15 per km",
+          "apps": "Ola, Uber, Rapido available"
+        },
+        "taxi_cabs": {
+          "ola_uber": "Available 24/7, surge pricing during peak hours",
+          "local_taxis": "₹8-12 per km for non-AC, ₹12-15 for AC"
+        }
+      },
+      "visakhapatnam": {
+        "city_buses": {
+          "apsrtc": "Regular city bus service",
+          "fare": "₹5-20 for city routes"
+        },
+        "auto_rickshaw": {
+          "fare": "₹20 minimum, ₹10-12 per km",
+          "availability": "Readily available near beaches and markets"
+        },
+        "rental_options": {
+          "bikes": "₹300-500 per day",
+          "cars": "₹1500-3000 per day",
+          "agencies": [
+            "Zoomcar",
+            "Revv",
+            "Local rental shops"
+          ]
+        }
+      },
+      "tirupati": {
+        "ttd_buses": {
+          "routes": "City to Tirumala every 5-10 minutes",
+          "fare": "₹50-100 based on bus type",
+          "timings": "24/7 service available"
+        },
+        "private_taxis": {
+          "city_to_tirumala": "₹800-1500 round trip",
+          "local_sightseeing": "₹1200-2000 for full day"
+        }
+      }
+    },
+    "inter_city": {
+      "apsrtc_buses": {
+        "types": [
+          "Ordinary",
+          "Express",
+          "Super Luxury",
+          "Volvo AC"
+        ],
+        "booking": "Online at apsrtconline.in or at bus stations",
+        "advance_booking": "Up to 60 days in advance"
+      },
+      "private_buses": {
+        "operators": [
+          "RedBus",
+          "AbhiBus",
+          "Travels Counter"
+        ],
+        "routes": "Major cities well connected",
+        "amenities": [
+          "AC",
+          "Sleeper",
+          "Semi-sleeper",
+          "WiFi"
+        ]
+      }
+    }
+  },
+  "accommodation_details": {
+    "budget_options": {
+      "hostels": {
+        "price_range": "₹300-800 per bed",
+        "facilities": [
+          "Shared bathrooms",
+          "WiFi",
+          "Common areas"
+        ],
+        "locations": "Available in major cities",
+        "booking_platforms": [
+          "Hostelworld",
+          "Zostel",
+          "Backpacker Panda"
+        ]
+      },
+      "budget_hotels": {
+        "price_range": "₹800-1500 per night",
+        "facilities": [
+          "Private bathroom",
+          "AC/Fan",
+          "TV",
+          "Room service"
+        ],
+        "chains": [
+          "OYO",
+          "Treebo",
+          "FabHotels"
+        ]
+      },
+      "dharmashalas": {
+        "price_range": "₹100-500 per night",
+        "locations": "Near temples and pilgrimage sites",
+        "facilities": [
+          "Basic accommodation",
+          "Shared facilities"
+        ],
+        "booking": "Walk-in or temple administration"
+      }
+    },
+    "mid_range": {
+      "business_hotels": {
+        "price_range": "₹1500-4000 per night",
+        "facilities": [
+          "AC rooms",
+          "Restaurant",
+          "WiFi",
+          "Room service",
+          "Parking"
+        ],
+        "chains": [
+          "Lemon Tree",
+          "Ginger",
+          "Country Inn"
+        ]
+      },
+      "heritage_hotels": {
+        "price_range": "₹2500-6000 per night",
+        "features": [
+          "Traditional architecture",
+          "Cultural programs",
+          "Local cuisine"
+        ],
+        "locations": [
+          "Hyderabad",
+          "Vijayawada",
+          "Tirupati"
+        ]
+      }
+    },
+    "luxury_options": {
+      "five_star_hotels": {
+        "price_range": "₹6000-25000 per night",
+        "chains": [
+          "Taj",
+          "ITC",
+          "Marriott",
+          "Hyatt",
+          "Radisson"
+        ],
+        "facilities": [
+          "Spa",
+          "Multiple restaurants",
+          "Pool",
+          "Concierge",
+          "Business center"
+        ]
+      },
+      "resort_properties": {
+        "beach_resorts": "Visakhapatnam - ₹4000-15000 per night",
+        "hill_resorts": "Araku Valley - ₹3000-8000 per night",
+        "facilities": [
+          "Adventure activities",
+          "Nature walks",
+          "Organic food"
+        ]
+      }
+    },
+    "booking_tips": {
+      "advance_booking": "Book 15-30 days in advance for better rates",
+      "peak_season": "October-March: Book 45-60 days ahead",
+      "festival_periods": "Book 2-3 months ahead during major festivals",
+      "platforms": [
+        "MakeMyTrip",
+        "Booking.com",
+        "Agoda",
+        "Direct hotel websites"
+      ]
+    }
+  },
+  "safety_tips": {
+    "general_safety": [
+      "Keep copies of important documents (passport, ID, tickets)",
+      "Share your itinerary with family/friends",
+      "Use registered taxis and avoid unmarked vehicles",
+      "Don't display expensive jewelry or large amounts of cash",
+      "Stay in well-lit, populated areas especially at night",
+      "Keep emergency contacts saved in your phone"
+    ],
+    "women_travelers": [
+      "Dress modestly, especially when visiting temples",
+      "Use women-only compartments in trains when available",
+      "Avoid isolated areas after dark",
+      "Trust your instincts and remove yourself from uncomfortable situations",
+      "Use reputable accommodation with good reviews",
+      "Keep women's helpline numbers handy: 1091"
+    ],
+    "temple_visits": [
+      "Follow dress codes strictly - no shorts, sleeveless tops",
+      "Remove footwear before entering temple premises",
+      "Don't touch idols or sacred objects",
+      "Be respectful during prayers and ceremonies",
+      "Photography may be restricted - ask before clicking",
+      "Beware of fake priests or touts asking for donations"
+    ],
+    "beach_safety": [
+      "Swim only in designated areas with lifeguards",
+      "Be cautious of strong currents and undertows",
+      "Don't swim alone, especially during rough weather",
+      "Apply sunscreen regularly and stay hydrated",
+      "Keep valuables in hotel safe, not on the beach"
+    ],
+    "food_safety": [
+      "Eat at busy, popular restaurants with high turnover",
+      "Avoid street food if you have a sensitive stomach",
+      "Drink bottled or boiled water",
+      "Avoid raw salads and unpeeled fruits from street vendors",
+      "Carry basic medicines for stomach upset"
+    ]
+  },
+  "medical_facilities": {
+    "major_hospitals": {
+      "hyderabad": [
+        {
+          "name": "Apollo Hospitals",
+          "address": "Jubilee Hills",
+          "phone": "+91-40-2360-7777",
+          "specialties": [
+            "Multi-specialty",
+            "Emergency care",
+            "International patients"
+          ],
+          "facilities": [
+            "24/7 emergency",
+            "Pharmacy",
+            "Ambulance service"
+          ]
+        },
+        {
+          "name": "NIMS Hospital",
+          "address": "Punjagutta",
+          "phone": "+91-40-2348-8888",
+          "type": "Government hospital",
+          "facilities": [
+            "Emergency care",
+            "Trauma center"
+          ]
+        },
+        {
+          "name": "Care Hospitals",
+          "address": "Banjara Hills",
+          "phone": "+91-40-6719-9999",
+          "specialties": [
+            "Cardiology",
+            "Oncology",
+            "Emergency care"
+          ]
+        }
+      ],
+      "visakhapatnam": [
+        {
+          "name": "KIMS Hospital",
+          "address": "Arilova",
+          "phone": "+91-891-299-9999",
+          "facilities": [
+            "Multi-specialty",
+            "24/7 emergency",
+            "ICU"
+          ]
+        },
+        {
+          "name": "Queen's NRI Hospital",
+          "address": "Visakhapatnam",
+          "phone": "+91-891-275-4444",
+          "specialties": [
+            "Emergency care",
+            "Surgery",
+            "Pediatrics"
+          ]
+        }
+      ],
+      "tirupati": [
+        {
+          "name": "SVIMS Hospital",
+          "address": "Tirupati",
+          "phone": "+91-877-228-7777",
+          "type": "Government medical college hospital",
+          "facilities": [
+            "Emergency care",
+            "All specialties"
+          ]
+        },
+        {
+          "name": "Ramesh Hospitals",
+          "address": "Tirupati",
+          "phone": "+91-877-225-5555",
+          "facilities": [
+            "Multi-specialty",
+            "Emergency care"
+          ]
+        }
+      ]
+    },
+    "pharmacies": {
+      "chains": [
+        "Apollo Pharmacy",
+        "MedPlus",
+        "Netmeds"
+      ],
+      "availability": "24/7 pharmacies available in major cities",
+      "prescription": "Carry prescriptions for regular medications",
+      "common_medicines": "Basic medicines available without prescription"
+    },
+    "health_insurance": {
+      "travel_insurance": "Recommended for all tourists",
+      "cashless_treatment": "Available at network hospitals",
+      "emergency_coverage": "Ensure coverage includes emergency evacuation"
+    }
+  },
+  "police_stations": {
+    "tourist_police": {
+      "hyderabad": [
+        {
+          "location": "Charminar",
+          "phone": "+91-40-2457-5349",
+          "services": [
+            "Tourist assistance",
+            "Complaint registration",
+            "Emergency help"
+          ]
+        },
+        {
+          "location": "Golconda Fort",
+          "phone": "+91-40-2400-8551",
+          "timings": "24/7 during tourist season"
+        }
+      ],
+      "visakhapatnam": [
+        {
+          "location": "RK Beach",
+          "phone": "+91-891-256-2340",
+          "services": [
+            "Beach patrol",
+            "Tourist safety",
+            "Lost and found"
+          ]
+        }
+      ],
+      "tirupati": [
+        {
+          "location": "Railway Station",
+          "phone": "+91-877-225-0100",
+          "services": [
+            "Pilgrim assistance",
+            "Crowd control",
+            "Emergency response"
+          ]
+        },
+        {
+          "location": "Tirumala",
+          "phone": "+91-877-227-7777",
+          "services": [
+            "Temple security",
+            "Pilgrim safety",
+            "Traffic management"
+          ]
+        }
+      ]
+    },
+    "emergency_procedures": [
+      "Call 100 for police emergency",
+      "Provide clear location and nature of emergency",
+      "Keep calm and follow police instructions",
+      "Have identification documents ready",
+      "Contact your embassy if you're a foreign tourist"
+    ]
+  },
+  "cultural_etiquette": {
+    "general_behavior": [
+      "Greet with 'Namaste' (palms together) or handshake",
+      "Remove shoes before entering homes and temples",
+      "Dress modestly, especially in religious places",
+      "Use right hand for eating and giving/receiving items",
+      "Don't point feet towards people or religious objects",
+      "Ask permission before photographing people"
+    ],
+    "temple_etiquette": [
+      "Dress conservatively - cover shoulders and legs",
+      "Remove footwear before entering temple premises",
+      "Don't wear leather items inside temples",
+      "Maintain silence during prayers",
+      "Don't touch idols or sacred objects",
+      "Follow the queue system for darshan",
+      "Photography restrictions vary - ask before clicking"
+    ],
+    "dining_etiquette": [
+      "Wash hands before and after meals",
+      "Eating with hands is common and acceptable",
+      "Don't use left hand for eating",
+      "Don't waste food - take only what you can finish",
+      "Respect dietary restrictions (vegetarian/non-vegetarian)",
+      "Remove shoes if eating on floor mats"
+    ],
+    "social_interactions": [
+      "Respect elders and touch their feet as a sign of respect",
+      "Don't show soles of feet to others",
+      "Public displays of affection are not common",
+      "Bargaining is expected in local markets",
+      "Tipping is appreciated but not mandatory (10-15%)"
+    ]
+  },
+  "language_help": {
+    "primary_language": "Telugu",
+    "widely_understood": [
+      "Hindi",
+      "English"
+    ],
+    "basic_phrases": {
+      "greetings": {
+        "hello": "Namaste / Vanakkam",
+        "how_are_you": "Ela unnaru?",
+        "thank_you": "Dhanyawadalu",
+        "please": "Dayachesi",
+        "excuse_me": "Kshaminchandi"
+      },
+      "directions": {
+        "where_is": "Ekkada undi?",
+        "how_far": "Entha dooram?",
+        "left": "Edamvaipu",
+        "right": "Kalavaipu",
+        "straight": "Nerunga"
+      },
+      "shopping": {
+        "how_much": "Entha?",
+        "too_expensive": "Ekkuva",
+        "discount": "Taggimpu",
+        "final_price": "Aakhiri rate"
+      },
+      "emergency": {
+        "help": "Sahayam",
+        "hospital": "Arogya sala",
+        "police": "Police",
+        "call_doctor": "Doctor ni pilavachu"
+      }
+    },
+    "translation_apps": [
+      "Google Translate",
+      "Microsoft Translator",
+      "iTranslate"
+    ],
+    "local_guides": "English-speaking guides available at major tourist spots"
+  },
+  "banking_services": {
+    "atm_networks": {
+      "major_banks": [
+        "SBI",
+        "HDFC",
+        "ICICI",
+        "Axis Bank",
+        "Canara Bank"
+      ],
+      "availability": "ATMs widely available in cities and towns",
+      "charges": "₹20-25 for other bank ATMs after 5 free transactions",
+      "daily_limit": "₹10,000-50,000 depending on bank and card type"
+    },
+    "currency_exchange": {
+      "authorized_dealers": [
+        "Banks",
+        "Authorized money changers",
+        "Hotels (limited)"
+      ],
+      "documents_required": [
+        "Passport",
+        "Visa",
+        "Currency declaration form"
+      ],
+      "best_rates": "Banks usually offer better rates than hotels",
+      "locations": "Available at airports, major hotels, and city centers"
+    },
+    "digital_payments": {
+      "upi_apps": [
+        "PhonePe",
+        "Google Pay",
+        "Paytm",
+        "BHIM"
+      ],
+      "card_acceptance": "Widely accepted in hotels, restaurants, and shops",
+      "cash_preference": "Small vendors and street food prefer cash",
+      "mobile_wallets": "Paytm, PhonePe widely accepted"
+    }
+  },
+  "connectivity_options": {
+    "mobile_networks": {
+      "major_operators": [
+        "Jio",
+        "Airtel",
+        "Vi (Vodafone Idea)",
+        "BSNL"
+      ],
+      "coverage": "Good coverage in cities, limited in remote areas",
+      "prepaid_plans": "₹199-699 for monthly plans with data",
+      "tourist_sim": "Available at airports with ID proof"
+    },
+    "internet_connectivity": {
+      "wifi_availability": "Free WiFi in hotels, cafes, malls, and airports",
+      "internet_cafes": "Available in cities at ₹20-40 per hour",
+      "mobile_data": "4G widely available, 5G in major cities",
+      "speed": "Good speeds in urban areas, slower in rural regions"
+    },
+    "sim_card_requirements": {
+      "documents": [
+        "Passport",
+        "Visa",
+        "Local address proof"
+      ],
+      "process": "Visit operator store with documents",
+      "activation_time": "2-24 hours",
+      "recharge_options": [
+        "Online apps",
+        "Retail stores",
+        "ATMs"
+      ]
+    }
+  },
+  "shopping_markets": {
+    "traditional_markets": {
+      "hyderabad": [
+        {
+          "name": "Laad Bazaar",
+          "location": "Near Charminar",
+          "famous_for": [
+            "Bangles",
+            "Pearls",
+            "Traditional jewelry"
+          ],
+          "timings": "10:00 AM to 9:00 PM",
+          "bargaining": "Expected and encouraged"
+        },
+        {
+          "name": "Begum Bazaar",
+          "location": "Old City",
+          "famous_for": [
+            "Wholesale goods",
+            "Textiles",
+            "Electronics"
+          ],
+          "best_time": "Morning hours for better deals"
+        }
+      ],
+      "visakhapatnam": [
+        {
+          "name": "Jagadamba Junction",
+          "famous_for": [
+            "Textiles",
+            "Electronics",
+            "Local handicrafts"
+          ],
+          "parking": "Limited, use public transport"
+        }
+      ],
+      "tirupati": [
+        {
+          "name": "Car Street",
+          "famous_for": [
+            "Religious items",
+            "Souvenirs",
+            "Traditional sweets"
+          ],
+          "location": "Near temple"
+        }
+      ]
+    },
+    "modern_shopping": {
+      "malls": [
+        {
+          "name": "Forum Sujana Mall",
+          "location": "Hyderabad",
+          "brands": [
+            "International and Indian brands",
+            "Food court",
+            "Cinema"
+          ]
+        },
+        {
+          "name": "CMR Central",
+          "location": "Visakhapatnam",
+          "facilities": [
+            "Shopping",
+            "Dining",
+            "Entertainment"
+          ]
+        }
+      ]
+    },
+    "local_specialties": {
+      "hyderabad": [
+        "Pearls",
+        "Bidriware",
+        "Nirmal paintings",
+        "Pochampally sarees"
+      ],
+      "visakhapatnam": [
+        "Kalamkari textiles",
+        "Bamboo crafts",
+        "Seashell items"
+      ],
+      "tirupati": [
+        "Religious artifacts",
+        "Sandalwood items",
+        "Traditional sweets"
+      ],
+      "araku": [
+        "Coffee beans",
+        "Tribal handicrafts",
+        "Bamboo products"
+      ]
+    }
+  },
+  "eco_tourism": {
+    "sustainable_practices": [
+      "Use public transportation or shared vehicles",
+      "Carry reusable water bottles and bags",
+      "Dispose of waste properly - use designated bins",
+      "Don't litter in natural areas or beaches",
+      "Respect wildlife - maintain safe distances",
+      "Choose eco-friendly accommodations",
+      "Support local communities by buying local products"
+    ],
+    "eco_destinations": [
+      {
+        "name": "Araku Valley",
+        "practices": [
+          "Organic coffee farming",
+          "Tribal community tourism",
+          "Nature conservation"
+        ],
+        "activities": [
+          "Coffee plantation tours",
+          "Tribal village visits",
+          "Nature walks"
+        ]
+      },
+      {
+        "name": "Kolleru Lake",
+        "conservation": "Bird sanctuary with strict environmental protection",
+        "guidelines": [
+          "No plastic allowed",
+          "Maintain silence",
+          "Don't disturb wildlife"
+        ]
+      }
+    ],
+    "responsible_tourism": [
+      "Respect local customs and traditions",
+      "Don't exploit local communities for photos",
+      "Pay fair prices for local services",
+      "Learn about local culture and history",
+      "Minimize water and energy consumption"
+    ]
+  },
+  "accessibility_services": {
+    "elderly_travelers": {
+      "transportation": [
+        "Priority seating in buses and trains",
+        "Wheelchair assistance at airports",
+        "Senior citizen discounts on train tickets (60+ years)",
+        "Taxi services with comfortable seating"
+      ],
+      "accommodation": [
+        "Ground floor rooms available on request",
+        "Hotels with elevator access",
+        "Medical assistance on call",
+        "Special dietary requirements catered"
+      ],
+      "attractions": [
+        "Wheelchair accessible entrances at major sites",
+        "Ramps available at most modern temples",
+        "Golf carts available at large temple complexes",
+        "Rest areas and seating at tourist spots"
+      ]
+    },
+    "disabled_travelers": {
+      "facilities": [
+        "Wheelchair accessible toilets in malls and airports",
+        "Braille signage at some major attractions",
+        "Audio guides available at museums",
+        "Special assistance at railway stations"
+      ],
+      "transportation": [
+        "Reserved seats in trains for disabled passengers",
+        "Wheelchair assistance at airports",
+        "Accessible taxis available on request",
+        "Priority boarding in flights"
+      ]
+    }
+  },
+  "travel_passes": {
+    "railway_passes": {
+      "indian_railway_pass": {
+        "validity": "15, 21, 30, 60, 90 days",
+        "price": "$135-1060 for foreign tourists",
+        "benefits": [
+          "Unlimited travel",
+          "AC class upgrades",
+          "Reservation assistance"
+        ]
+      },
+      "regional_passes": {
+        "south_india_pass": "Covers AP, Telangana, Karnataka, Tamil Nadu",
+        "validity": "15-90 days",
+        "booking": "IRCTC website or railway stations"
+      }
+    },
+    "bus_passes": {
+      "apsrtc_passes": {
+        "daily_pass": "₹100-200 for unlimited city travel",
+        "weekly_pass": "₹500-800 for regular commuters",
+        "tourist_pass": "Special packages for multiple destinations"
+      }
+    },
+    "attraction_passes": {
+      "hyderabad_city_pass": "Combined entry to multiple attractions",
+      "temple_passes": "Special darshan tickets with reduced waiting time",
+      "museum_passes": "Combined tickets for multiple museums"
+    }
+  },
+  "luggage_services": {
+    "railway_stations": {
+      "cloak_rooms": {
+        "availability": "Major stations like Secunderabad, Vijayawada, Visakhapatnam",
+        "charges": "₹10-30 per item per day",
+        "timings": "24/7 at major stations",
+        "security": "Items are tagged and secured"
+      },
+      "porter_services": {
+        "charges": "₹20-50 per bag depending on distance",
+        "identification": "Licensed porters wear badges",
+        "booking": "Available at platform entrances"
+      }
+    },
+    "airports": {
+      "left_luggage": {
+        "hyderabad_airport": "₹100-300 per bag per day",
+        "visakhapatnam_airport": "₹50-200 per bag per day",
+        "location": "Usually near arrival/departure halls"
+      }
+    },
+    "hotels": {
+      "storage_service": "Most hotels store luggage before check-in/after check-out",
+      "charges": "Usually free for guests",
+      "duration": "Same day storage typically free"
+    },
+    "private_services": {
+      "luggage_delivery": "Services like Porter, Dunzo available in major cities",
+      "charges": "₹99-299 for local delivery",
+      "booking": "Through mobile apps"
+    }
+  }
+}
