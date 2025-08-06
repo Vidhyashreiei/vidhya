@@ -897,20 +897,13 @@ with st.sidebar:
     - 🏛️ Temple and heritage sites
     - 🚗 Travel routes and transportation
     - 📅 Customized itineraries with flowcharts
-    - 🌐 Multi-language support
-    
-    **Supported Languages:**
-    - English
-    - हिंदी (Hindi)
-    - తెలుగు (Telugu)
+   
+   
     """)
     
-    st.header("📞 Emergency Contacts")
+    st.header("Contact:+919035235665")
     st.markdown("""
-    - **Tourism Helpline:** 1800-425-1100
-    - **Police:** 100
-    - **Fire:** 101
-    - **Ambulance:** 108
+    
     """)
     
     if st.button("🗑️ Clear Chat History"):
