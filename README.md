@@ -45,6 +45,3 @@ streamlit run streamlit_app.py
 
 Feel free to contribute by adding more destinations, improving the knowledge base, or enhancing the user interface.
 
----
-
-Made with ❤️ for Andhra Pradesh Tourism
